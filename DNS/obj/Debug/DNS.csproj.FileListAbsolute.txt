@@ -1,0 +1,6 @@
+c:\users\luish\documents\visual studio 2015\Projects\DNS\DNS\bin\Debug\DNS.exe.config
+c:\users\luish\documents\visual studio 2015\Projects\DNS\DNS\bin\Debug\DNS.exe
+c:\users\luish\documents\visual studio 2015\Projects\DNS\DNS\bin\Debug\DNS.pdb
+c:\users\luish\documents\visual studio 2015\Projects\DNS\DNS\obj\Debug\DNS.csprojResolveAssemblyReference.cache
+c:\users\luish\documents\visual studio 2015\Projects\DNS\DNS\obj\Debug\DNS.exe
+c:\users\luish\documents\visual studio 2015\Projects\DNS\DNS\obj\Debug\DNS.pdb
